@@ -1,0 +1,22 @@
+duration:1.0;mem stats:false;sys mem stats:false
+module;test;tags;iterations;elapsed
+ListSwapBench	map_swap 10		500000	2367086
+ListSwapBench	map_swap 100		20000	1987686
+ListSwapBench	map_swap 1000		1000	1203775
+ListSwapBench	map_swap 10000		100	1418563
+ListSwapBench	map_swap 2		500000	3127464
+ListSwapBench	map_swap2 10		500000	3577641
+ListSwapBench	map_swap2 100		50000	2875513
+ListSwapBench	map_swap2 1000		2000	1541429
+ListSwapBench	map_swap2 10000		200	2583113
+ListSwapBench	map_swap2 2		500000	3786578
+ListSwapBench	naive_swap 10		500000	3351734
+ListSwapBench	naive_swap 100		50000	2097174
+ListSwapBench	naive_swap 1000		5000	1649188
+ListSwapBench	naive_swap 10000		500	1906148
+ListSwapBench	naive_swap 2		1000000	2387971
+ListSwapBench	split_swap 10		500000	1830722
+ListSwapBench	split_swap 100		100000	2188557
+ListSwapBench	split_swap 1000		10000	2141786
+ListSwapBench	split_swap 10000		1000	2007085
+ListSwapBench	split_swap 2		1000000	1317352
